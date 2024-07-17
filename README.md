@@ -11,6 +11,7 @@ This project implements a Naive Bayes classifier for detecting spam emails. The 
 - [Data](#data)
 - [Results](#results)
 - [License](#license)
+- [Contact](#contact)
 
 ## Introduction
 
@@ -40,9 +41,9 @@ To get started with this project, follow these steps:
 ## Usage
 
 1. Compile source folder:
-  ```sh
-  g++ spamDetect.cpp Email.cpp -o spamDetect
-  ```
+   ```sh
+   g++ spamDetect.cpp Email.cpp -o spamDetect
+   ```
 
 2. Run the program:
    ```sh
